@@ -1,0 +1,3 @@
+title=game pong
+author=jeager
+orientation= lanskap
